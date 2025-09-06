@@ -1,0 +1,7 @@
+email_task:
+  description: >
+    Take the following rough email and rewrite it into a professional and polished version.
+    Expand abbreviations:
+    '''{original_email}'''
+  expected_output: >
+    A professional written email with proper formatting and content.
