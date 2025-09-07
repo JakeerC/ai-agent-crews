@@ -32,7 +32,7 @@ prepare_marketing_strategy:
     - Recommended marketing channels
     - Plan of action for the week containing 3 blogs to write, 2 reels to film, and 5 social media posts to create
     - Key performance indicators (KPIs) to measure success
-    Store the marketing strategy in 'resources/drafts/marketing_strategy.md'.
+    Store the marketing strategy in 'resources/marketing_crew/drafts/marketing_strategy.md'.
 
 create_content_calendar:
   description: >
@@ -48,7 +48,7 @@ create_content_calendar:
     - Topics and formats for each piece of content specified in the marketing strategy
     - Publishing schedule
     - Key themes and campaigns
-    Store the content calendar in 'resources/drafts/content_calendar.md'.
+    Store the content calendar in 'resources/marketing_crew/drafts/content_calendar.md'.
 
 prepare_post_drafts:
   description: >
@@ -63,7 +63,7 @@ prepare_post_drafts:
     Drafts for:
     - Social media posts: LinkedIn, Twitter, Instagram
     - Email campaigns
-    Each draft should be ready for review and feedback. Save the drafts in 'resources/drafts/posts/' folder in markdown format.
+    Each draft should be ready for review and feedback. Save the drafts in 'resources/marketing_crew/drafts/posts/' folder in markdown format.
 
 prepare_scripts_for_reels:
   description: >
@@ -79,7 +79,7 @@ prepare_scripts_for_reels:
     - Engaging hooks
     - Key messages
     - Call to action
-    Each script should be ready for filming and editing. Save the scripts in 'resources/drafts/reels/' folder in markdown format. And assign tasks to the relevant team members.
+    Each script should be ready for filming and editing. Save the scripts in 'resources/marketing_crew/drafts/reels/' folder in markdown format. And assign tasks to the relevant team members.
 
 content_research_for_blogs:
   description: >
@@ -112,7 +112,7 @@ draft_blogs:
     - Well-structured content
     - SEO optimization
     - Ready for review and feedback
-    Each draft should be ready for review and saved in 'resources/drafts/blogs/' folder in markdown format.
+    Each draft should be ready for review and saved in 'resources/marketing_crew/drafts/blogs/' folder in markdown format.
 
 seo_optimization:
   description: >
